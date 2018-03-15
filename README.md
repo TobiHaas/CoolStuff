@@ -19,7 +19,7 @@ Dieses GitHub-Repository dient dazu, kreative, witzige und coole Boards zu samme
 Alle Samples und Boards müssen in einem eigenen Verzeichnis abgelegt werden. Neben der pbmx.file enthält dieses Verzeichnis einen Screenshot und eine kurze Beschreibung, was das Board gerade macht.
 
 ## Anforderungen
-Alle Boards in diesem GitHub-Repository benötigen die aktuellste stabile Version der Peakboard-Designer-Anwendung und -Laufzeit. Bitte besuchen Sie www.peakboard.com für einen kostenlosen Download. Um einen Beitrag zu dieser Repositorium zu leisten, benötigen Sie ein Github-Konto. Sie können eine solche erstellen, indem Sie auf diese Seite gehen[hier.](https://github.com/join)
+Alle Boards in diesem GitHub-Repository benötigen die aktuellste stabile Version der Peakboard-Designer-Anwendung und -Laufzeit. Bitte besuchen Sie www.peakboard.com für einen kostenlosen Download. Um einen Beitrag zu dieser Repositorium zu leisten, benötigen Sie ein Github-Konto. Sie können eine solche erstellen, indem Sie auf diese Seite gehen [hier.](https://github.com/join)
 
 ## Über Peakboard 
 Mit Peakboard visualisieren Sie einfach und effizient komplexe Daten und Prozesse in Echtzeit. Für Kunden und Mitarbeiter. Als digitale Inhouse-Kommunikation, Digital Signage und Andon Boards. Auf Displays in Produktion, Logistik, Verwaltung und am Point of Sale.
