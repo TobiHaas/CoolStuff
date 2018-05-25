@@ -11,3 +11,6 @@ After you found out your station number go to the JSon source in the board and r
 The data is based on this API:
 
 https://codefor.de/projekte/2015-06-09-stgt-efa-meta-api.html
+
+# Category
+Use Case

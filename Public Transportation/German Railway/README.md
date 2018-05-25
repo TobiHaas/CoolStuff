@@ -10,3 +10,6 @@ https://open-api.bahn.de/bin/rest.exe/location.name?authKey=DBhackFrankfurt0316&
 Please make sure to get your own API key and register and the developer portal of Deutsche Bahn:
 
 https://developer.deutschebahn.com/store/
+
+# Category
+Use Case

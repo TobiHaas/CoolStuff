@@ -4,3 +4,6 @@ This board shows a cool demo on Lua scripting. It translates the current hour an
 # Remarks
 Nothing special to do to get it working. Just hit the preview button, check out the script and learn something. It might take a second to load the time so please
 be patient. Feel free to translate into another language!
+
+# Category
+Use Case
