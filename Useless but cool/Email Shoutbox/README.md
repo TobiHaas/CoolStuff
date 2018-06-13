@@ -7,5 +7,5 @@ Nothing special to do to get it working. There's an active email adress provided
 # Category
 Use Case
 
-#Title 
+# Title 
 Email shoutbox

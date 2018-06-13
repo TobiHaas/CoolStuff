@@ -8,5 +8,5 @@ Nothing special to do to get it working. Just hit the preview button, check out 
 # Category
 Use Case
 
-#Title 
+# Title 
 Chinese word of the day
