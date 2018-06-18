@@ -1,5 +1,5 @@
 # Category
-Grids
+Grid
 
 # Title 
 Grid 1x2

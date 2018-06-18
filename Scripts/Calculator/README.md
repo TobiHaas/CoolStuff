@@ -1,5 +1,5 @@
 # Category
-Scripts
+Script
 
 # Title 
 Calculator
