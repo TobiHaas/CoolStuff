@@ -1,5 +1,8 @@
+# Sideshow 
+This board automatically shuffles through a PDF Sideshow
+
 # Category
 Use Case
 
 # Title 
-Slideshow
+Sideshow

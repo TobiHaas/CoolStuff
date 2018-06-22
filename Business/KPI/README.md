@@ -1,3 +1,6 @@
+# KPI 
+This board shows general KPIs 
+
 # Category
 Use Case NR
 
