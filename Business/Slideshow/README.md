@@ -1,4 +1,4 @@
-# Sideshow 
+# Slideshow 
 This board automatically shuffles through a PDF Sideshow
 
 # Category
