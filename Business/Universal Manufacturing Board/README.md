@@ -6,3 +6,6 @@ Use this template as inspiration for your own boards. it works right away with s
 
 # Category
 Use Case
+
+# Title
+Universal Manufacturing Board

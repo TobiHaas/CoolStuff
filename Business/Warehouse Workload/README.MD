@@ -6,3 +6,6 @@ Use this template as inspiration for your own workload boards. it works right aw
 
 # Category
 Use Case
+
+# Title
+Warehouse Workload

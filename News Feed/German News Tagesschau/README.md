@@ -6,3 +6,6 @@ Adjust design and rss source as you like....
 
 # Category
 Use Case
+
+# Title
+Tagesschau / German News Ticker
