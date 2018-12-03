@@ -1,5 +1,5 @@
 # Cool Stuff with Peakboard
-This GitHub repository is intended to collect creative, funny and cool boards created with the Peakboard-Designer. Feel free to add and remix your own Peakboard designs! *New to Github? Want to download files and contribute?* Check out the wiki for this repository for tutorials on how to use this repository. 
+This GitHub repository is intended to collect creative, funny and cool boards created with the Peakboard-Designer. Feel free to add and remix your own Peakboard designs! *New to Github? Want to download files and contribute?* Check out the wiki for this repository for tutorials on how to use this repository.
 
 ## Remarks
 All samples and boards must be placed in their own directory. Beside the pbmx .file this directory contains a screenshot and a short description on what the board is doing.
